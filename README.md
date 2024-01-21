@@ -1,4 +1,3 @@
-# App-Dev
 | Syntax | Description |
 | ----------- | ----------- |
 | My Favorite movie | Cast Away |
